@@ -1,0 +1,45 @@
+body{
+    background-image: url("imagem_fundo.png");
+
+}
+
+#cronometro{
+    color: white;
+    position: absolute;
+    left: 150px;
+    top: 130px;
+    font-size: 250px;
+}
+#btn-ini{
+    position: absolute;
+    left: 390px;
+    top: 680px;
+    width: 120px;
+    height: 30px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#btn-parar{
+    position: absolute;
+    left: 625px;
+    top: 680px;
+    width: 120px;
+    height: 30px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+
+
+}
+#btn-zerar{
+    position: absolute;
+    left: 860px;
+    top: 680px;
+    width: 120px;
+    height: 30px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#cronometro2{
+    position: relative;
+    left: 250px;
+}
